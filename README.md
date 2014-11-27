@@ -9,5 +9,9 @@ OpenCV 3.0
 
 
 
-More info about development can be found:
+More info about the project can be found:
+
+Turek, Štěpán. "Implementation of bundle block adjustment method for determination
+of exterior orientation into GRASS GIS." (2014).
+
 http://geo.fsv.cvut.cz/proj/dp/2014/stepan-turek-dp-2014.pdf

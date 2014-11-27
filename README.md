@@ -1,6 +1,8 @@
 grass-gis-bba
 =============
 
+This program is free software under the GNU General Public License (>=v2). Read the file LICENSE.md.
+
 grass gis bundle block adjustment EXPERIMENTAL
 
 Denendencies:
